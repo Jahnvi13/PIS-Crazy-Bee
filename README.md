@@ -1,4 +1,4 @@
 # PIS-Crazy-Bee
 An archive repo for PIS Minor Project Crazy Bee 
 
-Presentation link: https://doc-10-9o-apps-viewer.googleusercontent.com/viewer/secure/pdf/irimpnmfd9p61e9g4oo1tum34d9jubc6/t5n31f75ddhrslm525b8rdta7aufekkj/1605470850000/drive/09564679742176549314/ACFrOgAIIeASsZ7OrCXLakrouwTOdwqQ4HdkpZw1hunvYrH0cSuGvZ79CqxrPvQmDREMVN9DlUoUEZrxaSbJmLpvKYzcjjVQyaM7gNONlqY6-2XKWPom6XF_Vmx9VjM0gayzdfUZ1S4h2M_7BQmn?print=true&nonce=6k1ct5lpt305s&user=09564679742176549314&hash=eo8mchgtol1d9ta5fmq4d19d5snm0veu
+Presentation link: https://drive.google.com/open?id=1GpYziYb63xxHWGPM1POxmJHDQL6kp8Kd
